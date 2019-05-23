@@ -179,7 +179,7 @@ function Test(){
     return new Test();
 
   this.GAGA = "rrr";
-}vewqveqwveqwveqwveqw
+}
 
 
 var a = new Test();
