@@ -34,14 +34,3 @@ console.log(ttt.name);
 
 // 생성자 함수에서 리턴값으로 넘긴 값이 객체가 아닌경우는
 // 리턴값을 무시하고, this에 바인딩 된 값을 리턴한다.
-
-
-var a;
-console.log(a);
-
-a();
-
-
-a = function(){
-  console.log("eeee");
-}
